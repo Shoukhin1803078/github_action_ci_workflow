@@ -4,4 +4,4 @@ app = FastAPI()
 
 @app.get("/")
 def home():
-    return {"message": "Hello Docker Registry"}
+    return {"message": "Hello world! . CI/CD is completed."}
