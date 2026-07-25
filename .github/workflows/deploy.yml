@@ -33,7 +33,7 @@ jobs:
 
   cd_part:
     name: Deploy to Server
-    needs: ci
+    needs: ci_part
     runs-on: ubuntu-latest
 
     steps:
