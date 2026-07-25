@@ -1,6 +1,6 @@
 # github_action_ci_workflow
 
-হ্যাঁ, যদি তুমি লোকালভাবে FastAPI app run করে test করতে চাও, তাহলে:
+লোকালভাবে FastAPI app run করে test  তাহলে:
 
 - ```docker compose up --build```
 
